@@ -1,6 +1,6 @@
 ## Hi there, I'm Pavel Mamaev 👋
 
-<img src="https://2ch.hk/s/src/3451692/17132850257700.png" width="40"/>[Telegram](t.me/mamayr)
+<img src="https://2ch.hk/s/src/3451692/17132850257700.png" width="40"/>[Telegram](https://t.me/mamayr)
 
 ### I'm Data Analyst
 
