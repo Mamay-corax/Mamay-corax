@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Pavel Mamaev 👋
 
+<img src="https://2ch.hk/s/src/3451692/17132850257700.png" width="40"/>[Telegram](t.me/mamayr)
+
+### I'm Data Analyst
+
+**Stack:**
+
+*SQL, PostgreSQL, Tableau, Python, Pandas, seaborn, matplotlib, plotly, numpy, scipy.stats*
 <!--
 **Mamay-corax/Mamay-corax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
